@@ -1,0 +1,21 @@
+[
+  {
+    "Author": "Evia",
+    "Name": "Music Player",
+    "InternalName": "MusicPlayer",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "A simple in-game music player for those who still like to download music.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/E-vvia/FFXIVMusicPlayer",
+    "Tags": [
+      "music",
+      "plugin"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "Punchline": "A simple in-game music player.",
+    "AcceptsFeedback": true
+  }
+]
