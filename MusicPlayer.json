@@ -11,11 +11,16 @@
       "music",
       "plugin"
     ],
+    
     "DalamudApiLevel": 8,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "LoadPriority": 0,
     "Punchline": "A simple in-game music player.",
-    "AcceptsFeedback": true
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall" : "https://raw.githubusercontent.com/E-vvia/FFXIVMusicPlayerReleases/main/latest.zip",
+    "DownloadLinkTesting" : "https://raw.githubusercontent.com/E-vvia/FFXIVMusicPlayerReleases/main/latest.zip",
+    "DownloadLinkUpdate" : "https://raw.githubusercontent.com/E-vvia/FFXIVMusicPlayerReleases/main/latest.zip"
+
   }
 ]
